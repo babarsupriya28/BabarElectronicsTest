@@ -29,10 +29,19 @@
               "./node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
+              "./src/assets/CSS/js/vendors/jquery/jquery.min.js",
               "./node_modules/jquery/dist/jquery.js",
               "./node_modules/materialize-css/dist/js/materialize.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.js",
-              "./src/init.js"
+              "./src/init.js",
+              "./src/assets/CSS/js/vendors/wow.min.js", 
+              "./src/assets/CSS/js/vendors/own-menu.js" ,
+              "./src/assets/CSS/js/vendors/jquery.sticky.js", 
+              "./src/assets/CSS/js/vendors/owl.carousel.min.js",
+              "./src/assets/CSS/rs-plugin/js/jquery.tp.t.min.js", 
+              "./src/assets/CSS/rs-plugin/js/jquery.tp.min.js", 
+              "./src/assets/CSS/js/main.js"
+              
             ]
           },
           "configurations": {
@@ -104,7 +113,15 @@
               "./node_modules/jquery/dist/jquery.js",
               "./node_modules/materialize-css/dist/js/materialize.min.js",
               "./node_modules/bootstrap/dist/js/bootstrap.js",
-              "./src/init.js"
+              "./src/init.js",
+              "./src/assets/CSS/js/vendors/wow.min.js", 
+              "./src/assets/CSS/js/vendors/own-menu.js" ,
+              "./src/assets/CSS/js/vendors/jquery.sticky.js", 
+              "./src/assets/CSS/js/vendors/owl.carousel.min.js",
+              "./src/assets/CSS/rs-plugin/js/jquery.tp.t.min.js", 
+              "./src/assets/CSS/rs-plugin/js/jquery.tp.min.js", 
+              "./src/assets/CSS/js/main.js"
+              
             ]
           }
         },
